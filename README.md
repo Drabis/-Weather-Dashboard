@@ -1,5 +1,7 @@
 # -Weather-Dashboard
 In this activity, we had an assignment on a weather app to help travelers prepare for their trip. This app will allow you to search multiple cities and look at the weather up to five days ahead.  Once you enter the search city, it saves the city name on a list unless you clear it. This app will show you the current temperature, wind speed, UV index, and humidity.
+
+You can view the work on: 
 <img width="1367" alt="Screen Shot 2021-03-13 at 10 18 49 PM" src="https://user-images.githubusercontent.com/76567790/111056530-8f82e300-844d-11eb-9bd4-d9637a76ce68.png">
 
 # Acceptance Criteria
